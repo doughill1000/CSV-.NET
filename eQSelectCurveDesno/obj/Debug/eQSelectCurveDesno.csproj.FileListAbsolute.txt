@@ -1,0 +1,11 @@
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\eQSelectCurveDesno.exe.config
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\obj\Debug\eQSelectCurveDesno.csprojResolveAssemblyReference.cache
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\eQSelectCurveDesno.exe
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\eQSelectCurveDesno.pdb
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\obj\Debug\eQSelectCurveDesno.exe
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\obj\Debug\eQSelectCurveDesno.pdb
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\Json.dll
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\Newtonsoft.Json.dll
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\Json.pdb
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\Newtonsoft.Json.xml
+C:\Doug\VisualStudio\eQSelectCurveDesno\eQSelectCurveDesno\bin\Debug\Jv.Json.dll
